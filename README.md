@@ -1,3 +1,3 @@
 # Rooisht
 
-Rooisht is a news aggregator, It aggregates news via RSS, And allows users to vote whether the news is left leaning, right leaning or center leaning. It has a group of admins who will give their own votes on the important issues.
+Rooisht is a news aggregator. It gathers stories via RSS and helps readers compare left-leaning, center, and right-leaning perspectives. Admins can also share their views on important issues.
